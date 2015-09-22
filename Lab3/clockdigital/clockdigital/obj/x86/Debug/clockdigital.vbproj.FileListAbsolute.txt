@@ -1,0 +1,10 @@
+D:\56110177\Visual Studio\Lab3\clockdigital\clockdigital\bin\Debug\clockdigital.exe
+D:\56110177\Visual Studio\Lab3\clockdigital\clockdigital\bin\Debug\clockdigital.pdb
+D:\56110177\Visual Studio\Lab3\clockdigital\clockdigital\bin\Debug\clockdigital.xml
+D:\56110177\Visual Studio\Lab3\clockdigital\clockdigital\obj\x86\Debug\clockdigital.Form1.resources
+D:\56110177\Visual Studio\Lab3\clockdigital\clockdigital\obj\x86\Debug\clockdigital.Resources.resources
+D:\56110177\Visual Studio\Lab3\clockdigital\clockdigital\obj\x86\Debug\clockdigital.vbproj.GenerateResource.Cache
+D:\56110177\Visual Studio\Lab3\clockdigital\clockdigital\obj\x86\Debug\clockdigital.exe
+D:\56110177\Visual Studio\Lab3\clockdigital\clockdigital\obj\x86\Debug\clockdigital.xml
+D:\56110177\Visual Studio\Lab3\clockdigital\clockdigital\obj\x86\Debug\clockdigital.pdb
+D:\56110177\Visual Studio\Lab3\clockdigital\clockdigital\obj\x86\Debug\clockdigital.Form2.resources

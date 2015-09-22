@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "clockdigital", "clockdigital\clockdigital.vbproj", "{725DAA6A-5CE9-4AB3-A70E-13255712F25E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{725DAA6A-5CE9-4AB3-A70E-13255712F25E}.Debug|x86.ActiveCfg = Debug|x86
+		{725DAA6A-5CE9-4AB3-A70E-13255712F25E}.Debug|x86.Build.0 = Debug|x86
+		{725DAA6A-5CE9-4AB3-A70E-13255712F25E}.Release|x86.ActiveCfg = Release|x86
+		{725DAA6A-5CE9-4AB3-A70E-13255712F25E}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
