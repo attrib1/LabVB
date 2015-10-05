@@ -1,0 +1,10 @@
+D:\56110177\Visual Studio\LabVB\Lab7\Lab7_1\Lab7_1\bin\Debug\Lab7_1.exe
+D:\56110177\Visual Studio\LabVB\Lab7\Lab7_1\Lab7_1\bin\Debug\Lab7_1.pdb
+D:\56110177\Visual Studio\LabVB\Lab7\Lab7_1\Lab7_1\bin\Debug\Lab7_1.xml
+D:\56110177\Visual Studio\LabVB\Lab7\Lab7_1\Lab7_1\obj\x86\Debug\Lab7_1.Form1.resources
+D:\56110177\Visual Studio\LabVB\Lab7\Lab7_1\Lab7_1\obj\x86\Debug\Lab7_1.Resources.resources
+D:\56110177\Visual Studio\LabVB\Lab7\Lab7_1\Lab7_1\obj\x86\Debug\Lab7_1.vbproj.GenerateResource.Cache
+D:\56110177\Visual Studio\LabVB\Lab7\Lab7_1\Lab7_1\obj\x86\Debug\Lab7_1.exe
+D:\56110177\Visual Studio\LabVB\Lab7\Lab7_1\Lab7_1\obj\x86\Debug\Lab7_1.xml
+D:\56110177\Visual Studio\LabVB\Lab7\Lab7_1\Lab7_1\obj\x86\Debug\Lab7_1.pdb
+D:\56110177\Visual Studio\LabVB\Lab7\Lab7_1\Lab7_1\obj\x86\Debug\Lab7_1.Form2.resources
