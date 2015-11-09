@@ -1,0 +1,14 @@
+D:\56110177\Visual Studio\LabVB\Lab11\Connect_Access\Connect_Access\bin\Debug\Connect_Access.exe
+D:\56110177\Visual Studio\LabVB\Lab11\Connect_Access\Connect_Access\bin\Debug\Connect_Access.pdb
+D:\56110177\Visual Studio\LabVB\Lab11\Connect_Access\Connect_Access\bin\Debug\Connect_Access.xml
+D:\56110177\Visual Studio\LabVB\Lab11\Connect_Access\Connect_Access\obj\x86\Debug\Connect_Access.Form1.resources
+D:\56110177\Visual Studio\LabVB\Lab11\Connect_Access\Connect_Access\obj\x86\Debug\Connect_Access.Resources.resources
+D:\56110177\Visual Studio\LabVB\Lab11\Connect_Access\Connect_Access\obj\x86\Debug\Connect_Access.vbproj.GenerateResource.Cache
+D:\56110177\Visual Studio\LabVB\Lab11\Connect_Access\Connect_Access\obj\x86\Debug\Connect_Access.exe
+D:\56110177\Visual Studio\LabVB\Lab11\Connect_Access\Connect_Access\obj\x86\Debug\Connect_Access.xml
+D:\56110177\Visual Studio\LabVB\Lab11\Connect_Access\Connect_Access\obj\x86\Debug\Connect_Access.pdb
+D:\56110177\Visual Studio\LabVB\Lab11\Connect_Access\Connect_Access\bin\Debug\student.accdb
+D:\56110177\Visual Studio\LabVB\Lab11\Connect_Access\Connect_Access\bin\Debug\Connect_Access.exe.config
+D:\56110177\Visual Studio\LabVB\Lab11\Connect_Access\Connect_Access\obj\x86\Debug\Connect_Access.Form2.resources
+D:\56110177\Visual Studio\LabVB\Lab11\Connect_Access\Connect_Access\obj\x86\Debug\Connect_Access.Form3.resources
+D:\56110177\Visual Studio\LabVB\Lab11\Connect_Access\Connect_Access\obj\x86\Debug\Connect_Access.Form4.resources
