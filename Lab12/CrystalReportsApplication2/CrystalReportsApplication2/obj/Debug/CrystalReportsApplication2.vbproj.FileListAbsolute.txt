@@ -1,0 +1,10 @@
+D:\56110177\Visual Studio\LabVB\Lab12\CrystalReportsApplication2\CrystalReportsApplication2\bin\Debug\CrystalReportsApplication2.exe
+D:\56110177\Visual Studio\LabVB\Lab12\CrystalReportsApplication2\CrystalReportsApplication2\bin\Debug\CrystalReportsApplication2.pdb
+D:\56110177\Visual Studio\LabVB\Lab12\CrystalReportsApplication2\CrystalReportsApplication2\bin\Debug\CrystalReportsApplication2.xml
+D:\56110177\Visual Studio\LabVB\Lab12\CrystalReportsApplication2\CrystalReportsApplication2\obj\Debug\CrystalReportsApplication2.Form1.resources
+D:\56110177\Visual Studio\LabVB\Lab12\CrystalReportsApplication2\CrystalReportsApplication2\obj\Debug\CrystalReportsApplication2.Resources.resources
+D:\56110177\Visual Studio\LabVB\Lab12\CrystalReportsApplication2\CrystalReportsApplication2\obj\Debug\CrystalReportsApplication2.vbproj.GenerateResource.Cache
+D:\56110177\Visual Studio\LabVB\Lab12\CrystalReportsApplication2\CrystalReportsApplication2\obj\Debug\CrystalReportsApplication2.exe
+D:\56110177\Visual Studio\LabVB\Lab12\CrystalReportsApplication2\CrystalReportsApplication2\obj\Debug\CrystalReportsApplication2.xml
+D:\56110177\Visual Studio\LabVB\Lab12\CrystalReportsApplication2\CrystalReportsApplication2\obj\Debug\CrystalReportsApplication2.pdb
+D:\56110177\Visual Studio\LabVB\Lab12\CrystalReportsApplication2\CrystalReportsApplication2\obj\Debug\CrystalReportsApplication2.Form2.resources
